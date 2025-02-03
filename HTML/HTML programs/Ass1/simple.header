@@ -1,0 +1,35 @@
+<html>
+<header>
+<style>
+div{
+border: 1px solid black;
+position: absolute;
+}
+footer{
+text-align: center;
+padding: 2px;
+background-color: gray;
+position: absolute;
+bottom: 0;
+width: 99.50%;
+height: 60px;
+}
+header{
+padding: 3px;
+background-color: gray;
+}
+</style>
+</head>
+<body>
+<header><h1 style="text-align: center">header</h2></header>
+<div style="height: 525px; width:600px">
+<section><p style="text-align:center">SELECTION1</p></section>
+</div>
+<div style="margin-left:600;height:525px; width:582px">
+<section><p style="text-align: center">SECTION2</p></section>
+
+<footer><p>AUTHOR: DEVIKA BORUDE<br>
+
+</p></footer>
+</body>
+</html>
